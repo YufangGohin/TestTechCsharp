@@ -1,0 +1,24 @@
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe.config
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\bin\Debug\TestTechnique.pdb
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\obj\Debug\TestTechnique.csprojResolveAssemblyReference.cache
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\obj\Debug\TestTechnique.exe
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\obj\Debug\TestTechnique.pdb
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.dll
+c:\users\yufang\documents\visual studio 2015\Projects\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe.config
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\obj\Debug\TestTechnique.exe
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\obj\Debug\TestTechnique.pdb
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\bin\Debug\TestTechnique.pdb
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yufang\Desktop\TestTechnique\TestTechnique\obj\Debug\TestTechnique.csprojResolveAssemblyReference.cache
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe.config
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\obj\Debug\TestTechnique.exe
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\obj\Debug\TestTechnique.pdb
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\bin\Debug\TestTechnique.exe
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\bin\Debug\TestTechnique.pdb
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yufang\Desktop\Recherche Emploi\TestTechnique\TestTechnique\obj\Debug\TestTechnique.csprojResolveAssemblyReference.cache
